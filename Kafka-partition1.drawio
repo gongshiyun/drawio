@@ -1,1 +1,79 @@
-<mxfile modified="2019-10-15T09:28:27.622Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="IzCWYL8ryJGyzHnrBapu" pages="1" version="11.2.9" type="github"><diagram id="MJuLWJjy4fnVhtMjruGv" name="Page-1">7Zpdj9soFIZ/DZetDP6+jDPJdqWuptJI7bZ3jCG2t8REhDRJf/1CjJPYx9OvTVo3O6O5gAMG/JzDGw4J8qfL3R+Krsq/JOMCEY/tkH+HCMEBIcj+e2zfWGLiN4ZCVcx1Ohkeqs/cGT1n3VSMrzsdtZRCV6uuMZd1zXPdsVGl5LbbbSFFd9YVLTgwPORUQOu7iumysSYkPtlf8aoo25lxlDYtS9p2dm+yLimT2zOTP0P+VEmpm9JyN+XCwmu5NM/Nn2g9LkzxWn/LA9E/RPBiNf/z831ahuxt8WG7fIFx2IzziYqNe2W3XL1vGZiVr2yR78xEGZObx0MLNhUlNzXjzNW2ZaX5w4rmtnlrAsLYSr0Urnmtlfx4xGgtC1lr53OcuPpUCqkOE/ve4c/Y3Rq50nz35OvjI1QTjVwuuVZ706V9oPXDvq3HzrA9+TVuO5XnPk2dkbpYKo6Dn3CbgiP+HfTTAMD3AP1LI66EOEO8WCxInh+fPGth0WMURheCH/ThpwPwh9iHV2MPAx/fJHvSbvERsY8Ae6g6N8E+HV/cx4C9f5Ps/Wh8cZ8A9sFNsg9GqPcpYB9enf31jjPh+FQdex5AHP3OiMcn3tjDAHH8GyOOxqfR2CMAcfKrEDO6Lo+zXIB3PD5dxp4PeKNZhMw5ZRKiWYiyuS1bS4QSUwhQlqEsQrMEZaY1tn0mMUqyQyFAiflIjYTNVB+VKRW29FoWD5oqfV8DT+omqwXuat1Ry5r3PkadiYqqqE01N/C5sWfWNVVOxcQ1LCvG7DSD8XGKIO8nJ8Je/LK363CYgijAfgjDgFwvCmBKAFzFazaxVzqWuaDrdZV/yXHn2L4Vr0Go9n9bnxhErvreuehQudt1antXa5bKGbhL6jmFeCYKC66/dE4Jhr135ppwYIO2NsUF1dWn7jqG3OVmeCMrs8JTcMT90OhffqzlRuXcPXZ+3dQbyU96UgMkpEEBRjrEz/HF/0tIwRPfq3fP+z9IyAj3P4Znxxvc/79qW4dBCnz+oxt7YCzSH+uJrW28R/dn3Va2w/q7lk2Czi23KTSDXlY6MDxmv57dP2tHPMqzA4Yn9mftuJh2xHFwMe0YGOta2jE01c/RjoF8ph+N7Tdq+UaJfaZo/tGeCb+WR3aTzh/PKpXUJiCklZkX6YWUwce9454fwMzSH4hS4P8L6gL8es3miMkcTeY2oTRJZJIc8kiTU6aHpinKJmiW2owzg1ez/zu9JyHQ+9ALr6b3pnr6PrzZkKdfFfizfwE=</diagram></mxfile>
+<mxfile modified="2019-10-15T09:46:49.637Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="b3wOeNJIihbfty3F-e9K" version="12.1.1" type="github" pages="1">
+  <diagram id="MJuLWJjy4fnVhtMjruGv" name="Page-1">
+    <mxGraphModel dx="1422" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-115" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1270" width="720" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-94" value="0" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="140" y="1290" width="70" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-95" value="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="215" y="1290" width="70" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-96" value="2" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="290" y="1290" width="70" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-97" value="3" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="365" y="1290" width="70" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-98" value="4" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="440" y="1290" width="70" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-99" value="5" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="515" y="1290" width="70" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-100" value="6" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="590" y="1290" width="70" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-101" value="7" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="665" y="1290" width="70" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-102" value="8" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;fontColor=#000000;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="1290" width="70" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-103" value="日志文件起始处&lt;br&gt;LogStartOffset" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="107.5" y="1159" width="135" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-106" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=18;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="6j2legpFIzO9h5dVgZwm-94" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="1190" as="sourcePoint"/>
+            <mxPoint x="380" y="1150" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-109" value="HW" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="482.5" y="1159" width="135" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-110" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=18;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="549.5" y="1190" as="sourcePoint"/>
+            <mxPoint x="549.5" y="1290" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="549.5" y="1240"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-111" value="LEO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="707.5" y="1159" width="135" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-112" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=18;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="774.5" y="1190" as="sourcePoint"/>
+            <mxPoint x="774.5" y="1290" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="774.5" y="1240"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-113" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=1;fontSize=18;fontColor=#000000;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1340" width="30" height="290" as="geometry"/>
+        </mxCell>
+        <mxCell id="6j2legpFIzO9h5dVgZwm-114" value="可消费区间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="257.5" y="1505" width="135" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
