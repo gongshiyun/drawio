@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T02:39:37.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="QdaeeCDPYxp3i7z7NkG-" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T06:42:45.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="e0xsSUeFB9suqL5KaP_Y" version="14.2.9" type="github">
   <diagram id="vi5ikbVNXeN05eVcxkcC" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="OHUrIzu_nobyhd1tYw6S-18" value="③新建websocket连接，&lt;br style=&quot;font-size: 12px;&quot;&gt;发送麦克风采集的音频流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Lucida Console;strokeWidth=2;fontSize=12;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="260" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OHUrIzu_nobyhd1tYw6S-21" value="①新增实时采播" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Lucida Console;strokeWidth=2;fontSize=12;sketch=1;" parent="1" vertex="1">
+        <mxCell id="OHUrIzu_nobyhd1tYw6S-21" value="①启动实时采播" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Lucida Console;strokeWidth=2;fontSize=12;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="130" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OHUrIzu_nobyhd1tYw6S-22" value="②返回RTP服务器地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Lucida Console;strokeWidth=2;fontSize=12;sketch=1;" parent="1" vertex="1">
@@ -61,8 +61,8 @@
         <mxCell id="OHUrIzu_nobyhd1tYw6S-33" value="⑤鉴权验证streamId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Lucida Console;strokeWidth=2;fontSize=12;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="400" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OHUrIzu_nobyhd1tYw6S-36" value="RPC调用：&lt;br style=&quot;font-size: 12px;&quot;&gt;1.新增实时采播任务&lt;br style=&quot;font-size: 12px;&quot;&gt;2.结束实时采播任务&lt;br style=&quot;font-size: 12px;&quot;&gt;3.新增或删除实时采播设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Lucida Console;strokeWidth=2;fontSize=12;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="190" width="160" height="60" as="geometry" />
+        <mxCell id="OHUrIzu_nobyhd1tYw6S-36" value="RPC调用：&lt;br style=&quot;font-size: 12px&quot;&gt;1.新增实时采播任务&lt;br style=&quot;font-size: 12px&quot;&gt;2.结束实时采播任务&lt;br style=&quot;font-size: 12px&quot;&gt;3.新增实时采播设备&lt;br&gt;4.删除实时采播设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Lucida Console;strokeWidth=2;fontSize=12;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="180" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
